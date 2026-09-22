@@ -24,3 +24,5 @@ This repository includes `.github/workflows/pages.yml`. Enable **GitHub Pages â†
 https://sachibuendia.vercel.app/
 
 > This is an original portfolio concept, not a commercial service.
+
+GitHub Pages is enabled for this repository.
